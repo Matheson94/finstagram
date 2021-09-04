@@ -5,11 +5,11 @@
 body, input {
   font-family: 'Roboto Condensed', sans-serif;
   margin: 0;
-  color: #244751;
+  color: #34ffa0;
 }
 
 a {
-  color: #8da7b8;
+  color: #4691c4;
   text-decoration: none;
 }
 
@@ -19,7 +19,7 @@ label {
 }
 
 input[type=text], input[type=password], input[type=email] {
-  border: solid 1px #244751;
+  border: solid 1px #007b9c;
   padding: .5em;
   width: 200px;
   font-size: 1em;
@@ -55,7 +55,7 @@ main {
 
 .button {
   padding: .5em;
-  background-color: white;
+  background-color: rgb(0, 0, 0);
   border: solid 1px #244751;
   display: inline-block;
 }
