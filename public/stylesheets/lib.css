@@ -5,11 +5,11 @@
 body, input {
   font-family: 'Roboto Condensed', sans-serif;
   margin: 0;
-  color: #34ffa0;
+  color: #b4ffdc;
 }
 
 a {
-  color: #4691c4;
+  color: #00426e;
   text-decoration: none;
 }
 
@@ -96,8 +96,8 @@ main {
 }
 
 .actions button.user-like {
-  color: #FF2600;
-  border-color: #FF2600;
+  color: #ffb8ff;
+  border-color: #ff89c4;
 }
 
 .actions .comment-count {
